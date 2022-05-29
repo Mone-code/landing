@@ -1,0 +1,10 @@
+.link-choose a{
+	color: #382A0B;
+	text-align: center;
+	text-decoration: none;
+}
+
+.link-choose a:hover{
+	color: whitesmoke;
+	text-decoration: none;
+}

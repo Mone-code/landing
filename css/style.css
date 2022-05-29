@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Lora&family=Tiro+Devanagari+Sanskrit&family=Tiro+Kannada:ital@1&family=Tiro+Tamil&display=swap");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+@import url("components/introduction.css");
+@import url("components/list.css");
+@import url("components/link.css");
+@import url("components/meals.css");
+@import url("components/chefs.css");
+@import url("components/contact.css");
+
+body{
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #B4AB9C;
+}
+
+h1,h2{
+	font-family: 'Tiro Devanagari Sanskrit', serif;
+	font-size: 30px;
+}
+
+
+
+
+h3{
+	font-family: 'Lora', serif;
+	font-size: 15px;
+	font-style: italic;
+	margin: 0px;
+}
+
+
+a{
+	text-decoration: none;
+	color: #382A0B;
+
+}
+
+a:hover{
+	background-color: #F7EE5E;
+	color: darkgray;
+}
+

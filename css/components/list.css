@@ -1,0 +1,28 @@
+.dishes dt{
+margin-inline-start: 0px;
+margin-block-start: 0px;
+}
+
+.dishes dd{
+margin-block-start: 2px;
+margin-inline-start: 20px;
+}
+
+.dishes{
+	margin-left:20px;
+}
+
+.chefs dt{
+margin-inline-start: 0px;
+margin-block-start: 0px;
+}
+
+.chefs dd{
+margin-block-start: 2px;
+margin-inline-start: 20px;
+}
+
+.chefs{
+	margin-left:20px;
+}
+
